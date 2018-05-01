@@ -1,5 +1,7 @@
 # TourOfHeroes
 
+View this project at [Tour of Heroes](https://erichislop.github.io/tour-of-heroes/dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
